@@ -1,0 +1,16 @@
+.transfer-item {
+    height: 60px;
+    width: 600px;
+    
+    display:flex;
+    justify-content:baseline;
+    align-items:center;
+    box-shadow:0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 0.5rem;
+    margin-top: 25px;
+    border-radius: 0px;
+    background-color:orange;
+    color: lightyellow;
+    text-align: center;
+    margin: 2rem auto;
+  }

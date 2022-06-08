@@ -1,0 +1,17 @@
+.gelen {
+    height: 50px;
+    width: 500px;
+    
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    box-shadow:0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 0.5rem;
+    margin-top: 25px;
+    border-radius: 12px;
+    background-color:blue;
+    color: lightyellow;
+    text-align: center;
+    margin: 2rem auto;
+  }
+
